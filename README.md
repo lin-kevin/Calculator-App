@@ -1,2 +1,2 @@
-# Calculator-App
-iOS 10 iPhone calculator re-make using Swift. 
+# Calculator App
+Re-made the iOS 10 iPhone calculator using Swift in XCode 10.  
